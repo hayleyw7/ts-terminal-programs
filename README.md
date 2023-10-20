@@ -1,4 +1,4 @@
-# TypeScript Fun
+# TypeScript Terminal Programs
 
 These are practice terminal programs from the Codecademy [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript) course.
 
